@@ -20,7 +20,7 @@ Your app should now be running on [localhost:3000](http://localhost:3000).
 
 Render index.html
 
-### `app.post('/users');`
+### `app.get('/users');`
 
 Get users list
 
