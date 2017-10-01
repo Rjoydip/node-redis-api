@@ -1,6 +1,6 @@
 # node-redis-api
 
-> Simple api to serve in-memory cache data using redis in node.js. If data found in redis then rending data from redis otherwise sending data from json.
+> Simple api to serve in-memory cache data using redis in node.js. If data found in redis then sending data from redis otherwise sending data from json.
 
 
 ## Running Locally
